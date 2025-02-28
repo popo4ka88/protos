@@ -1,4 +1,4 @@
-module protos
+module github.com/popo4ka88/protos
 
 go 1.23
 
